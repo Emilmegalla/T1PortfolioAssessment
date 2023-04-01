@@ -1,3 +1,33 @@
 body {
-    background-color: #2078a8;
+  margin: 0;
+  background-color: #a5a5a5;
 }
+
+header {
+  background-color: #ffb6b6;
+  padding: 16px;
+  text-align: center;
+}
+header .logo-name {
+  margin-bottom: 24px;
+}
+header .logo-name .name {
+  font-size: 28px;
+  color: #0D85C1;
+}
+header .logo-name .name .coder-text {
+  color: #0D85C1;
+}
+header .logo-name .name .academy-text {
+  color: #008CCE;
+}
+header .nav-items {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+}
+header .nav-items a {
+  text-decoration: none;
+  color: #0D85C1;
+}/*# sourceMappingURL=style.css.map */
