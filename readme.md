@@ -26,4 +26,23 @@ Header has logo and name of the company along with navigation bar. Here is the c
     </nav>
     <div class=""></div>
 </header>
+```
+
+ ### Footer 
+
+ Footer has the devloper social media icons and contact details
+ 
+ ```html
+  <footer>
+        <div class="social-media">
+            <a href=""><i class="fa-brands fa-github"></i></a>
+            <a href=""><i class="fa-brands fa-linkedin"></i></a>
+            <a href=""><i class="fa-solid fa-blog"></i></a>
+        </div>
+
+        <div class="info">
+            <p>Contact: 0404040404</p>
+            <p>Address: 1 Street st Subrub</p>
+        </div>
+    </footer>  
     ```

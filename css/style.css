@@ -1,6 +1,10 @@
 body {
   margin: 0;
   background-color: #a5a5a5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 header {
@@ -30,4 +34,25 @@ header .nav-items {
 header .nav-items a {
   text-decoration: none;
   color: #0D85C1;
+}
+
+footer {
+  background-color: #ffb6b6;
+  padding: 16px;
+  text-align: center;
+}
+footer .social-media {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 24px;
+}
+footer .social-media a i {
+  color: #1c3c5c;
+  font-size: 24px;
+}
+footer .info {
+  color: rgb(41, 40, 40);
+}
+footer .info p {
+  margin: 5px 0;
 }/*# sourceMappingURL=style.css.map */
