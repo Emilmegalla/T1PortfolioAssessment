@@ -28,6 +28,7 @@ Header has logo and name of the company along with navigation bar. Here is the c
 </header>
 ```
 
+
  ### Footer 
 
  Footer has the devloper social media icons and contact details
@@ -44,5 +45,24 @@ Header has logo and name of the company along with navigation bar. Here is the c
             <p>Contact: 0404040404</p>
             <p>Address: 1 Street st Subrub</p>
         </div>
-    </footer>  
-    ```
+    </footer>
+```
+
+## Pages
+
+### Home
+Home page, for now just display some lorem inum text. Code is below
+```html
+ <main>
+      <section>
+        <div class="jumbotrin">
+          <img src="./images/jumbotron.jpg" alt="" />
+        </div>
+
+        <div class="details">
+          <p>
+            Lorem ipsum text
+        </div>
+      </section>
+    </main>
+```
