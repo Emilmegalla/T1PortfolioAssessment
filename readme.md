@@ -66,3 +66,17 @@ Home page, for now just display some lorem inum text. Code is below
       </section>
     </main>
 ```
+
+## Styeling
+
+### Components
+These will contain the styling of individual componets which are as following 
+- Header
+- Footer
+
+### Defaults 
+This will contain the default variables such as colors, breakpoints, etc
+
+### Pages
+This will contain the styling of each individual HTML pages
+
