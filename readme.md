@@ -66,6 +66,9 @@ Home page, for now just display some lorem inum text. Code is below
       </section>
     </main>
 ```
+### Services
+Services page displays the list of services that we provide .
+
 
 ## Styeling
 
