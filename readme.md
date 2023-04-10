@@ -69,6 +69,8 @@ Home page, for now just display some lorem inum text. Code is below
 ### Services
 Services page displays the list of services that we provide .
 
+### Contact
+Contact page can be use to contact the company.
 
 ## Styeling
 
